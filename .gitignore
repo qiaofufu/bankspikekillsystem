@@ -1,0 +1,7 @@
+/bin
+/.idea
+/docs
+/ssl
+/static/
+go.mod
+go.sum
