@@ -14,7 +14,7 @@
   - 利用Radis缓存用户预订单信息, 预加载订单数量
   - 利用Mysql实现乐观锁
   - 采用Gin Web Framework
-	- 采用Gorm ,对象关系映射
-  -	采用JSON Web Token , 解决了认证相关问题
-  -	采用RabbitMQ 消息队列，异步处理订单生成，有效进行消峰处理
+  - 采用Gorm ,对象关系映射
+  - 采用JSON Web Token , 解决了认证相关问题
+  - 采用RabbitMQ 消息队列，异步处理订单生成，有效进行消峰处理
   - 采用RESTFUL设计风格和开发方式
